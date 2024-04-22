@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Telgote</h1>
 <h3 align="center">I am Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [rohittelgote.vercel.app](rohittelgote.vercel.app)
+- 👨‍💻 All of my projects are available at [rohittelgote.vercel.app](https://rohittelgote.vercel.app/)
 
 - 📝 I regularly write articles on [https://rohittelgote.hashnode.dev/](https://rohittelgote.hashnode.dev/)
 
